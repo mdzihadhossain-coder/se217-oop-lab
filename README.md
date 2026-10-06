@@ -21,12 +21,6 @@
   🏛 <b>Daffodil International University</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/mdzihadhossain-coder/se217-oop-lab?color=818cf8&label=Last%20Commit&logo=git&style=flat-square"/>
-  <img src="https://img.shields.io/github/repo-size/mdzihadhossain-coder/se217-oop-lab?color=38bdf8&label=Repo%20Size&style=flat-square"/>
-  <img src="https://img.shields.io/github/license/mdzihadhossain-coder/se217-oop-lab?color=a78bfa&label=License&style=flat-square"/>
-</p>
-
 ---
 
 </div>
