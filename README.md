@@ -7,10 +7,10 @@ This repository contains lab tasks, exercises, and practice programs for the **S
 ## Student Information
 
 - **Name:** Md. Zihad Hossain
-- **Student ID:** [Insert Your Student ID]
+- **Student ID:** 252-35-247
+- - **Section:** G2 (45)
+- - **Institution:** Daffodil International University
 - **Department:** Software Engineering
-- **Section:** [Insert Your Section]
-- **Institution:** Daffodil International University
 
 ---
 
@@ -33,7 +33,4 @@ se217-oop-lab/
 ├── README.md
 └── week02/
     └── src/
-        ├── HelloWorld.java
-        ├── VariableTypes.java
-        ├── ControlStatements.java
-        └── ... (other practice source files)
+        ├── Java programs
