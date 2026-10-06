@@ -11,6 +11,7 @@ public class seven {
             case 2:
                 System.out.println("USA");
                 break;
+                
             default:
                 System.out.println("Out of earth");
         }
