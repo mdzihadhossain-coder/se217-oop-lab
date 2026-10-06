@@ -8,14 +8,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=550&lines=System.out.println(%22Hello%2C%20World!%22)%3B;Mastering+Core+Java+%E2%80%A2+OOP+Paradigms;Algorithms+%E2%80%A2+Clean+Code+%E2%80%A2+System+Design" alt="Typing SVG" />
 </p>
 
-<!-- Interactive Developer Tech Stack -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" alt="Tech Stack" />
+  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Repo_Status-Active-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lab_Task-Completed-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 </p>
 
 <p align="center">
   <b>Department of Software Engineering</b><br>
   🏛 <b>Daffodil International University</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/mdzihadhossain-coder/se217-oop-lab?color=818cf8&label=Last%20Commit&logo=git&style=flat-square"/>
+  <img src="https://img.shields.io/github/repo-size/mdzihadhossain-coder/se217-oop-lab?color=38bdf8&label=Repo%20Size&style=flat-square"/>
+  <img src="https://img.shields.io/github/license/mdzihadhossain-coder/se217-oop-lab?color=a78bfa&label=License&style=flat-square"/>
 </p>
 
 ---
@@ -33,8 +42,8 @@ This repository contains hands-on lab exercises and practice programs for the
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="20%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
-      <img src="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%2338bdf8" width="70" height="70" alt="Student Icon"/>
+    <td align="center" width="22%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 22px;">
+      <img src="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%2338bdf8" width="76" height="76" alt="Student Icon"/>
       <br><br>
       <img src="https://img.shields.io/badge/Software_Engineer-blue?style=flat-square&color=2563EB"/>
     </td>
