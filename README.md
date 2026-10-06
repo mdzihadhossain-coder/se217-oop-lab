@@ -2,7 +2,7 @@
 
 # ☕ SE 217: Object Oriented Programming Lab
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Java%20Programming%20Lab&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Java%20Programming&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -22,7 +22,7 @@
 
 ## 📖 Introduction
 
-Welcome to the **SE 217: Object Oriented Programming Lab** practice repository. This workspace serves as a structured digital lab journal documenting hands-on implementations, algorithmic exercises, and core Object-Oriented principles in **Java**.
+This repository contains hands-on lab exercises and practice programs for the SE 217: Object Oriented Programming Lab course, developed using standard Java and clean coding practices. **Java**.
 
 ---
 
