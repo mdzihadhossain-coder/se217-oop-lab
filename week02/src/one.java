@@ -1,4 +1,3 @@
-package one.main;
 
 public class one {
     public static void main(String[] args) {
