@@ -20,6 +20,14 @@
 
 </div>
 
+## 📖 Introduction
+
+Welcome to the **SE 217: Object Oriented Programming Lab** practice repository. This workspace serves as a structured digital lab journal documenting hands-on implementations, algorithmic exercises, and core Object-Oriented principles in **Java**. 
+
+For **Week 02**, the objective is to build a rock-solid foundation in standard Java syntax, configure local developer tooling, master decision and looping structures, and handle terminal-based user input.
+
+---
+
 ## 👨‍💻 Student Profile
 
 <table align="center" width="100%">
