@@ -24,6 +24,7 @@ public class six {
 
         else {
             System.out.println("Old");
+            
         }
     }
 }
