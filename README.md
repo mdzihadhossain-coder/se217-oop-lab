@@ -47,53 +47,19 @@ Welcome to the **SE 217: Object Oriented Programming Lab** practice repository. 
 
 ## 🎯 Lab Overview & Roadmap
 
-> End-to-end practical curriculum track covering Java fundamentals, object-oriented paradigms, robust software design, and database integration.
+> Practical implementation of baseline Java syntax, execution dynamics, branching logic, and interactive terminal processing.
 
 <div align="center">
 
 ```mermaid
-flowchart TD
-    subgraph S1 ["Phase 1: Language Syntax & Foundations"]
-        A([⚙️ JDK & Git Environment]) --> B([📦 Primitive Types & Variables])
-        B --> C([🔀 Decision & Branching Logic])
-        C --> D([🔁 Loop Iterations & Arrays])
-        D --> E([⌨️ Scanner Console I/O])
-        E --> F([🧩 Custom Methods & Recursion])
-    end
-
-    subgraph S2 ["Phase 2: Core OOP Paradigm"]
-        F --> G([🏛️ Classes & Objects])
-        G --> H([🔒 Encapsulation & Getters/Setters])
-        H --> I([🧬 Inheritance & Super Call])
-        I --> J([🎭 Polymorphism: Overload / Override])
-        J --> K([📐 Abstraction: Abstract Classes & Interfaces])
-    end
-
-    subgraph S3 ["Phase 3: Advanced Concepts & System Design"]
-        K --> L([⚠️ Exception Handling & Custom Errors])
-        L --> M([🗂️ Java Collections Framework])
-        M --> N([📂 File I/O & Streams])
-        N --> O([🎨 GUI / Swing / JavaFX])
-        O --> P([🗄️ JDBC & Database Connectivity])
-    end
-
-    style S1 fill:#0f172a,stroke:#38bdf8,stroke-width:1.5px,color:#fff
-    style S2 fill:#0f172a,stroke:#a855f7,stroke-width:1.5px,color:#fff
-    style S3 fill:#0f172a,stroke:#22c55e,stroke-width:1.5px,color:#fff
-
-    style A fill:#1e293b,stroke:#38bdf8,stroke-width:1.5px,color:#fff
-    style B fill:#1e293b,stroke:#818cf8,stroke-width:1.5px,color:#fff
-    style C fill:#1e293b,stroke:#fbbf24,stroke-width:1.5px,color:#fff
-    style D fill:#1e293b,stroke:#34d399,stroke-width:1.5px,color:#fff
-    style E fill:#1e293b,stroke:#f472b6,stroke-width:1.5px,color:#fff
-    style F fill:#1e293b,stroke:#38bdf8,stroke-width:1.5px,color:#fff
-    style G fill:#1e293b,stroke:#c084fc,stroke-width:1.5px,color:#fff
-    style H fill:#1e293b,stroke:#e879f9,stroke-width:1.5px,color:#fff
-    style I fill:#1e293b,stroke:#fb7185,stroke-width:1.5px,color:#fff
-    style J fill:#1e293b,stroke:#facc15,stroke-width:1.5px,color:#fff
-    style K fill:#1e293b,stroke:#4ade80,stroke-width:1.5px,color:#fff
-    style L fill:#1e293b,stroke:#f87171,stroke-width:1.5px,color:#fff
-    style M fill:#1e293b,stroke:#2dd4bf,stroke-width:1.5px,color:#fff
-    style N fill:#1e293b,stroke:#60a5fa,stroke-width:1.5px,color:#fff
-    style O fill:#1e293b,stroke:#a78bfa,stroke-width:1.5px,color:#fff
-    style P fill:#1e293b,stroke:#4ade80,stroke-width:1.5px,color:#fff
+flowchart LR
+    A([⚙️ Setup & JDK]) --> B([📦 Variables & Data Types])
+    B --> C([🔀 Branching Logic])
+    C --> D([🔁 Loop Iterations])
+    D --> E([⌨️ Scanner Console I/O])
+    
+    style A fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#fff
+    style B fill:#1e293b,stroke:#818cf8,stroke-width:2px,color:#fff
+    style C fill:#1e293b,stroke:#fbbf24,stroke-width:2px,color:#fff
+    style D fill:#1e293b,stroke:#34d399,stroke-width:2px,color:#fff
+    style E fill:#1e293b,stroke:#f472b6,stroke-width:2px,color:#fff
