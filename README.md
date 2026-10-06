@@ -22,7 +22,8 @@
 
 ## 📖 Introduction
 
-This repository contains hands-on lab exercises and practice programs for the SE 217: Object Oriented Programming Lab course, developed using standard Java and clean coding practices. **Java**.
+This repository contains hands-on lab exercises and practice programs for the 
+SE 217: Object Oriented Programming Lab course, developed using standard Java and clean coding practices. **Java**.
 
 ---
 
