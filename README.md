@@ -13,36 +13,48 @@
 
 <p align="center">
   <b>Department of Software Engineering</b><br>
-  🏛️️ <b>Daffodil International University</b>
+  🏛 <b>Daffodil International University</b>
 </p>
 
 ---
 
 </div>
 
-## 👤 Student Profile
+## 👨‍💻 Student Profile
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="20%" align="center">
-      <img src="https://api.iconify.design/lucide:user-check.svg?color=%232563EB" width="60"/>
+    <td align="center" width="18%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px;">
+      <img src="https://api.iconify.design/heroicons:academic-cap-solid.svg?color=%2358a6ff" width="64" height="64" alt="Student Icon"/>
     </td>
-    <td>
-      <b>Name:</b> Md. Zihad Hossain<br>
-      <b>Student ID:</b> <code>252-35-247</code><br>
-      <b>Department:</b> Software Engineering<br>
-      <b>Section:</b> <code>G2 (45)</code><br>
-      <b>Course:</b> SE 217 — Object Oriented Programming Lab<br>
-      <b>Institution:</b> Daffodil International University<br>
-      <b>Submission Portal:</b> Daffodil BLC (Blended Learning Center)
+    <td style="background-color: #0d1117; border: 1px solid #30363d; padding: 16px; border-radius: 8px;">
+      <b>👤 Name:</b> <code>Md. Zihad Hossain</code><br>
+      <b>🆔 Student ID:</b> <code>252-35-247</code><br>
+      <b>🏷️ Section:</b> <code>G2 (45)</code><br>
+      <b>💻 Department:</b> <code>Software Engineering</code><br>
+      <b>🏫 Institution:</b> <code>Daffodil International University</code><br>
+      <b>🌐 LMS Portal:</b> <a href="https://elearn.daffodilvarsity.edu.bd/">DIU BLC</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📌 Week 02 Overview
+## 🎯 Lab Overview & Roadmap
 
-> 💡 **Focus:** Setting up the development environment, mastering baseline Java syntax, execution flow, conditional branching, and console I/O handling.
+> Practical implementation of baseline Java syntax, execution dynamics, branching logic, and interactive terminal processing for **Week 02**.
 
-### 🎯 Core Concepts Mastered
+<div align="center">
+
+```mermaid
+flowchart LR
+    A([⚙️ Setup & JDK]) --> B([📦 Variables & Data Types])
+    B --> C([🔀 Branching Logic])
+    C --> D([🔁 Loop Iterations])
+    D --> E([⌨️ Scanner Console I/O])
+    
+    style A fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#fff
+    style B fill:#1e293b,stroke:#818cf8,stroke-width:2px,color:#fff
+    style C fill:#1e293b,stroke:#fbbf24,stroke-width:2px,color:#fff
+    style D fill:#1e293b,stroke:#34d399,stroke-width:2px,color:#fff
+    style E fill:#1e293b,stroke:#f472b6,stroke-width:2px,color:#fff
