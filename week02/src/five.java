@@ -11,5 +11,6 @@ public class five {
         else {
             System.out.println("Consonant");
         }
+        
     }
 }
