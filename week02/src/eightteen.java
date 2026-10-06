@@ -1,5 +1,3 @@
-package main;
-
 public class eightteen {
     public static void main(String[] args) {
         System.out.println("Program Start:");
